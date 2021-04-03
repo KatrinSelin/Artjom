@@ -1,0 +1,616 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 16265 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Laptop/Downloads/ArtjomSein-main/New Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56647
+Successfully changed project path to: C:/Users/Laptop/Downloads/ArtjomSein-main/New Project
+C:/Users/Laptop/Downloads/ArtjomSein-main/New Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 50.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Laptop/Downloads/ArtjomSein-main/New Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2100M (ID=0x11fc)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   23.21.13.9065
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56080
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002152 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002845 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.950 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1297 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.9 MB.
+System memory in use after: 78.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1769.
+Total: 2.847600 ms (FindLiveObjects: 0.251000 ms CreateObjectMapping: 0.155200 ms MarkObjects: 2.065200 ms  DeleteObjects: 0.374900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e25c4bd31e37f752fe3cf3941b46f9') in 0.020059 seconds
+  Import took 0.023035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25889.680281 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e37bbde0f225a6c1a4b61803de42281') in 0.012926 seconds
+  Import took 0.017694 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003273 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.194 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1263 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.6 MB.
+System memory in use after: 76.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1772.
+Total: 2.363500 ms (FindLiveObjects: 0.185400 ms CreateObjectMapping: 0.048400 ms MarkObjects: 1.753000 ms  DeleteObjects: 0.375100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 313.128232 seconds.
+  path: Assets/Game Library/Audio/Environment/Audio_Space_Factory_Ambience.ogg
+  artifactKey: Guid(55fb6fb5c90794af9833f039ff9a5243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Environment/Audio_Space_Factory_Ambience.ogg using Guid(55fb6fb5c90794af9833f039ff9a5243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0664ca6c4578f649b69ab7d3ec36b24d') in 0.124357 seconds
+  Import took 0.128717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Game Library/Models/Items/Spaceship_Futuristic.fbx
+  artifactKey: Guid(b95d04b0e9ad04252a5b6d41e26e8906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Items/Spaceship_Futuristic.fbx using Guid(b95d04b0e9ad04252a5b6d41e26e8906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3f3dc601f54875e4e1dccf7b97664c') in 0.087480 seconds
+  Import took 0.090256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/SampleScenes/Models/Materials/SpaceshipHull.mat
+  artifactKey: Guid(35e2b94eb1006514abf8ae501b17f4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Models/Materials/SpaceshipHull.mat using Guid(35e2b94eb1006514abf8ae501b17f4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dee96bef49a47eb857d16fe9611a059e') in 0.041625 seconds
+  Import took 0.044702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/My Game/My Materials/Items/Spacestation Laser.mat
+  artifactKey: Guid(329c2e1d4ede245f9ae71926c2a03fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Items/Spacestation Laser.mat using Guid(329c2e1d4ede245f9ae71926c2a03fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e2811e506e61f4c7b94ae0f54bc4db') in 0.021005 seconds
+  Import took 0.024168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Game Library/Models/Items/Spacestation.fbx
+  artifactKey: Guid(58ad96499740447e2834addc11fbd204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Items/Spacestation.fbx using Guid(58ad96499740447e2834addc11fbd204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8f95e2e3e011c7fd1718632be04bc91') in 0.043789 seconds
+  Import took 0.047587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/My Game/My Materials/Items/Spacestation Trim.mat
+  artifactKey: Guid(8a0e8209a76ad4fa989016450998bc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Items/Spacestation Trim.mat using Guid(8a0e8209a76ad4fa989016450998bc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb9007eb48023633f59cdf8856a49a2') in 0.017289 seconds
+  Import took 0.021042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Spaceship Main.mat
+  artifactKey: Guid(3cb54877fd88a43ec920d9b150adc38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Spaceship Main.mat using Guid(3cb54877fd88a43ec920d9b150adc38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712227b3b27a1be66026975ebc75706e') in 0.014599 seconds
+  Import took 0.018135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Spaceship Rocket.mat
+  artifactKey: Guid(9e29558f99d1648cca60f42f1bfe0c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Spaceship Rocket.mat using Guid(9e29558f99d1648cca60f42f1bfe0c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99683603cf5bef124572d0a9ae759172') in 0.014725 seconds
+  Import took 0.018433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Spaceship Trim.mat
+  artifactKey: Guid(494ceec68e2a040009e50648b83e06c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Spaceship Trim.mat using Guid(494ceec68e2a040009e50648b83e06c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e84ba72028be269bc063af8e7f4da3') in 0.014851 seconds
+  Import took 0.018774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png
+  artifactKey: Guid(3d8675433a508ec47b8f895201eacf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png using Guid(3d8675433a508ec47b8f895201eacf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4f270a0fa82e5ba3699a64ba8c0153') in 0.046750 seconds
+  Import took 0.049438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Game Library/Prefabs/Items/Fantasy/Spaceship_Fantasy.prefab
+  artifactKey: Guid(a9c5255f947d4984ba87ab21817030ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Items/Fantasy/Spaceship_Fantasy.prefab using Guid(a9c5255f947d4984ba87ab21817030ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3c12c88b45d5f378050f25c15a4c8e') in 0.089750 seconds
+  Import took 0.092775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Game Library/Prefabs/Items/Futuristic/Spaceship_Futuristic.prefab
+  artifactKey: Guid(90e55d1ffce444fd6830eb92c8f6b1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Items/Futuristic/Spaceship_Futuristic.prefab using Guid(90e55d1ffce444fd6830eb92c8f6b1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3aff6bb7fda796c43116cfc17bf6ad9') in 0.016600 seconds
+  Import took 0.020660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Game Library/Audio/Music/Space_Synth_Xtreme_Music.ogg
+  artifactKey: Guid(2086264053ddea042bdc032c35a9a9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/Space_Synth_Xtreme_Music.ogg using Guid(2086264053ddea042bdc032c35a9a9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5412e579d9eb775c38fcbff1c3692e12') in 0.022197 seconds
+  Import took 0.025629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Spaceship Secondary.mat
+  artifactKey: Guid(027021fac9417400eac872a6479552d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Spaceship Secondary.mat using Guid(027021fac9417400eac872a6479552d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babead46b94bb8c05015f0893c5edfa7') in 0.012687 seconds
+  Import took 0.015876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/SampleScenes/Models/Materials/SpaceshipGlow.mat
+  artifactKey: Guid(c45f0afbf9669834d9bac06fb9f06fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Models/Materials/SpaceshipGlow.mat using Guid(c45f0afbf9669834d9bac06fb9f06fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bb65d9a35133b42b5ee594108f44875') in 0.020421 seconds
+  Import took 0.023815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Spacestation Trim.mat
+  artifactKey: Guid(3197ad04046144a068884d42fa625a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Spacestation Trim.mat using Guid(3197ad04046144a068884d42fa625a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f6d5a786ad8dfeaa3b153ff1e42cf8b') in 0.013716 seconds
+  Import took 0.016876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Spaceship Window.mat
+  artifactKey: Guid(2dee8b2b209e74999b7b184f9372787d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Spaceship Window.mat using Guid(2dee8b2b209e74999b7b184f9372787d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad4e0200c4cb597f5bf76496232c4f2') in 0.013541 seconds
+  Import took 0.016324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Spacestation Laser.mat
+  artifactKey: Guid(b13b39914c4ee476186e423b4ec06556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Spacestation Laser.mat using Guid(b13b39914c4ee476186e423b4ec06556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff20b4dda5ae8b9004ca838e54448a68') in 0.012914 seconds
+  Import took 0.015693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Game Library/Images/Icons/Icon_Spaceship.png
+  artifactKey: Guid(8296ed5cc093546d19634a25d6d6063a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Images/Icons/Icon_Spaceship.png using Guid(8296ed5cc093546d19634a25d6d6063a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297ee29f0dbdcc1c7df9c8f1027b8849') in 0.037064 seconds
+  Import took 0.039844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Game Library/Images/Icons/Icon_Spaceship_Fantasy.png
+  artifactKey: Guid(3347544563940466b94f0182eda99bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Images/Icons/Icon_Spaceship_Fantasy.png using Guid(3347544563940466b94f0182eda99bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83937fef7ccb2549fc4cfd7890be1570') in 0.029324 seconds
+  Import took 0.033171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.984971 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftFuselage.fbx
+  artifactKey: Guid(4fea6053a1424d44daf193f09be2d491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftFuselage.fbx using Guid(4fea6053a1424d44daf193f09be2d491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e2fb1a1fb599729614be106b6905b1') in 0.659145 seconds
+  Import took 0.665253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageGrey.mat
+  artifactKey: Guid(141b5bb76b8b39342a5a787acbeaabfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageGrey.mat using Guid(141b5bb76b8b39342a5a787acbeaabfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3231094397ae77e99ec7656ca3402f6e') in 0.057051 seconds
+  Import took 0.061341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/My Game/My Materials/Characters/Fantasy/Spider/Furnace_Fire.mat
+  artifactKey: Guid(77ade24203e6eac40b047c6315d20fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Characters/Fantasy/Spider/Furnace_Fire.mat using Guid(77ade24203e6eac40b047c6315d20fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720f05d9edfad703b5986915c3718aa0') in 0.020444 seconds
+  Import took 0.023455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Game Library/Audio/Music/FutureWorld_PressOn_Loop.ogg
+  artifactKey: Guid(1a06fd4fc99c643d98cc8d0ccbfa3449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/FutureWorld_PressOn_Loop.ogg using Guid(1a06fd4fc99c643d98cc8d0ccbfa3449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc3b10e06019042bd5f4b03f7a2cd23') in 0.023925 seconds
+  Import took 0.027118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageWhite.mat
+  artifactKey: Guid(6f36a222811073946936cf1cdeb78f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageWhite.mat using Guid(6f36a222811073946936cf1cdeb78f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '251cba58ea9fcae10a9055569274fa39') in 0.038306 seconds
+  Import took 0.043734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Item Barrel Futuristic.mat
+  artifactKey: Guid(f2a58aa5ff5524a50ac907dfd49cf7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Item Barrel Futuristic.mat using Guid(f2a58aa5ff5524a50ac907dfd49cf7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d20929e417e389893c0164aca0010ea') in 0.021514 seconds
+  Import took 0.024999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Game Library/Audio/Music/FutureWorld_Darkness_Loop.ogg
+  artifactKey: Guid(b50369a41cf924c21ad4b7d4bc7b38a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/FutureWorld_Darkness_Loop.ogg using Guid(b50369a41cf924c21ad4b7d4bc7b38a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b23ff3969a9bc215df7c0eaf891daaea') in 0.022319 seconds
+  Import took 0.025127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Game Library/Models/Items/Item_Barrel_Futuristic.fbx
+  artifactKey: Guid(5e61773772dd946f3bf0a1300958b893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Items/Item_Barrel_Futuristic.fbx using Guid(5e61773772dd946f3bf0a1300958b893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b20e99ee5667ec1d193160d01d4cf47') in 0.038749 seconds
+  Import took 0.042040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png
+  artifactKey: Guid(0c6271a290ef75b4c97d58746c86c5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png using Guid(0c6271a290ef75b4c97d58746c86c5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '440461f5783d048198243034168fb88a') in 0.027647 seconds
+  Import took 0.030374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/My Game/My Materials/Items/Item Barrel Futuristic Trim.mat
+  artifactKey: Guid(4b416a7cc4e65470d9641d3710af1e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Items/Item Barrel Futuristic Trim.mat using Guid(4b416a7cc4e65470d9641d3710af1e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7675153346ce7874eed74499b8cf3cb4') in 0.014068 seconds
+  Import took 0.016889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/My Game/My Materials/Items/Item Barrel Futuristic.mat
+  artifactKey: Guid(4f6579cf621364b5da299e982db3c9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Items/Item Barrel Futuristic.mat using Guid(4f6579cf621364b5da299e982db3c9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc31c3298a80c2dbba1d472c353b9d0c') in 0.008736 seconds
+  Import took 0.011480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Game Library/Prefabs/Items/Misc/Hazard - Level Respawn.prefab
+  artifactKey: Guid(4f4eddb52d79346b788909fad18e37f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Items/Misc/Hazard - Level Respawn.prefab using Guid(4f4eddb52d79346b788909fad18e37f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682f45352d1e9d288ae7c20db407e6de') in 0.141035 seconds
+  Import took 0.143733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Spacstation Main.mat
+  artifactKey: Guid(f99870ea53d994e3b8141cd8ad30470d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Spacstation Main.mat using Guid(f99870ea53d994e3b8141cd8ad30470d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dea1ee58d22e0a085a945ba10f7c9a0') in 0.013094 seconds
+  Import took 0.015495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Standard Assets/ParticleSystems/Textures/Spark.png
+  artifactKey: Guid(269490de66e33a34dad45a50e3d4c168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/ParticleSystems/Textures/Spark.png using Guid(269490de66e33a34dad45a50e3d4c168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3efe7a6673a8b88d6b1893b0d927472b') in 0.020882 seconds
+  Import took 0.023963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/My Game/My Materials/Items/Spacstation Main.mat
+  artifactKey: Guid(d88bdb3b1e70c4340ab6e4c7de8a6d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Items/Spacstation Main.mat using Guid(d88bdb3b1e70c4340ab6e4c7de8a6d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13af9430a540de747012b4b3b89efbd9') in 0.010146 seconds
+  Import took 0.012966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Item Box Futuristic.mat
+  artifactKey: Guid(498064ba4fd0f47ccaeae523fc1f6bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Item Box Futuristic.mat using Guid(498064ba4fd0f47ccaeae523fc1f6bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4dbd496868d6ff0ad0bd1c5c9e7452') in 0.026623 seconds
+  Import took 0.030189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Game Library/Prefabs/Particles/Particle WebGL Spawn.prefab
+  artifactKey: Guid(9514dee146fa0490ba6a8356e98cd25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Particles/Particle WebGL Spawn.prefab using Guid(9514dee146fa0490ba6a8356e98cd25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e44903770888ecfcaec8c098d30528b') in 0.014624 seconds
+  Import took 0.019043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Game Library/Audio/Music/Forceful_Pressure_and_Tension__10s.ogg
+  artifactKey: Guid(6f3d2c44baefc6b40b2d54b1b29530d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/Forceful_Pressure_and_Tension__10s.ogg using Guid(6f3d2c44baefc6b40b2d54b1b29530d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe0bd04360e917c4fa2d3366859e8d6') in 0.025457 seconds
+  Import took 0.029197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageNormals.png
+  artifactKey: Guid(c7e9ae087ac710a4980ed418c192e2fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageNormals.png using Guid(c7e9ae087ac710a4980ed418c192e2fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a74838e116ddacea6f5437355ac0aa') in 0.037224 seconds
+  Import took 0.043070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Game Library/Audio/Music/FutureWorld_Violins_Loop.ogg
+  artifactKey: Guid(762b506465b5542a497fcf75570c69f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/FutureWorld_Violins_Loop.ogg using Guid(762b506465b5542a497fcf75570c69f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df97f45c574344b9f74068a06ce98ce4') in 0.025344 seconds
+  Import took 0.028951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Game Library/Models/Characters/Enemies/Spider/Futuristic/Future_Spider.fbx
+  artifactKey: Guid(afa77f901c9e54e46a2cd2fd1c522220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Characters/Enemies/Spider/Futuristic/Future_Spider.fbx using Guid(afa77f901c9e54e46a2cd2fd1c522220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86cd6fcc9cad8dafbdbf15628b17e1f') in 0.162126 seconds
+  Import took 0.166141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/SampleScenes/Textures/GUITimescaleFull.png
+  artifactKey: Guid(4276d5f756bb64e7dbe3d20577592f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Textures/GUITimescaleFull.png using Guid(4276d5f756bb64e7dbe3d20577592f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce10bd2244c857df6cff7c79d5c47074') in 0.021960 seconds
+  Import took 0.024553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Game Library/Audio/Items/Audio_Futuristic_Platform.wav
+  artifactKey: Guid(cea4d5c2d4d4c4e0d9527f3f07d3a53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Items/Audio_Futuristic_Platform.wav using Guid(cea4d5c2d4d4c4e0d9527f3f07d3a53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6edebe191ef7f6ac56da174bded45920') in 0.026550 seconds
+  Import took 0.029187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Game Library/Prefabs/Items/Futuristic/Checkpoint Futuristic.prefab
+  artifactKey: Guid(dee99d7ed7cc64f738b3524de50e69d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Items/Futuristic/Checkpoint Futuristic.prefab using Guid(dee99d7ed7cc64f738b3524de50e69d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f7df77113102f12b3bc5c28698d0b1') in 0.059780 seconds
+  Import took 0.062664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Game Library/Models/Characters/Enemies/Droid/Droid Fantasy/Droid_Fantasy.fbx
+  artifactKey: Guid(e496862fcbb42fa41aac5030bd534722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Characters/Enemies/Droid/Droid Fantasy/Droid_Fantasy.fbx using Guid(e496862fcbb42fa41aac5030bd534722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2bba724eda0680b79e1ca481333014') in 0.161791 seconds
+  Import took 0.165647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/My Game/My Materials/Environment/Items/Item Barrel Futuristic Trim.mat
+  artifactKey: Guid(82da060b40aa8471b85746dcd597a41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Materials/Environment/Items/Item Barrel Futuristic Trim.mat using Guid(82da060b40aa8471b85746dcd597a41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf4a810731967cafb6e38f82a0d6ac7') in 0.009149 seconds
+  Import took 0.012007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Game Library/Prefabs/Items/Misc/EnemySpawner.prefab
+  artifactKey: Guid(6735537901301624aa1c17caaaf96473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Prefabs/Items/Misc/EnemySpawner.prefab using Guid(6735537901301624aa1c17caaaf96473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd455ad5f80b11852b20f41fb64d0a9') in 0.019235 seconds
+  Import took 0.022357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Game Library/Models/Characters/Enemies/Droid/Droid Futuristic/Droid_Future.fbx
+  artifactKey: Guid(c8274815a634ba64eba37e7fab74eb9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Characters/Enemies/Droid/Droid Futuristic/Droid_Future.fbx using Guid(c8274815a634ba64eba37e7fab74eb9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d1b6c74023a02b6cc6df3c7b880bad1') in 0.147599 seconds
+  Import took 0.152168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Game Library/Models/Items/Item_Box_Futuristic.fbx
+  artifactKey: Guid(5df6e87e5ac754998a4d7bd9279ddff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Models/Items/Item_Box_Futuristic.fbx using Guid(5df6e87e5ac754998a4d7bd9279ddff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc54d010e10e8ad1f4616e476938950') in 0.036501 seconds
+  Import took 0.040004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Standard Assets/ParticleSystems/Materials/ParticleSpark.mat
+  artifactKey: Guid(f63c576739a709747a1a571260d4fabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/ParticleSystems/Materials/ParticleSpark.mat using Guid(f63c576739a709747a1a571260d4fabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23468fdfd84279fdd582f8947fd531fb') in 0.049484 seconds
+  Import took 0.052555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageOcclusion.png
+  artifactKey: Guid(d378ff11c42566d46b0b11cd91eca3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageOcclusion.png using Guid(d378ff11c42566d46b0b11cd91eca3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b87dcbfeec217b8c83a655899c755179') in 0.023277 seconds
+  Import took 0.025919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Standard Assets/ParticleSystems/Materials/ParticleSpark.mat
+  artifactKey: Guid(f63c576739a709747a1a571260d4fabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/ParticleSystems/Materials/ParticleSpark.mat using Guid(f63c576739a709747a1a571260d4fabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23468fdfd84279fdd582f8947fd531fb') in 0.013903 seconds
+  Import took 0.017804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Game Library/Audio/Music/FutureWorld_PressOn_Loop_02.ogg
+  artifactKey: Guid(9c7bf18e4cad94d408710ace8f7c4ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Audio/Music/FutureWorld_PressOn_Loop_02.ogg using Guid(9c7bf18e4cad94d408710ace8f7c4ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3985a10f6937729d366b0518d7ab4a5a') in 0.019760 seconds
+  Import took 0.023273 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002829 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.926 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1263 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.6 MB.
+System memory in use after: 80.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1829.
+Total: 2.752200 ms (FindLiveObjects: 0.199000 ms CreateObjectMapping: 0.065300 ms MarkObjects: 2.089900 ms  DeleteObjects: 0.396400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 317.032759 seconds.
+  path: Assets/Game Library/Codebase/DestroyObject.cs
+  artifactKey: Guid(cbbe3611b0558d143b639f54aba222b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Codebase/DestroyObject.cs using Guid(cbbe3611b0558d143b639f54aba222b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd32acd4ef5d574994601a69ab77dfc6') in 0.015130 seconds
+  Import took 0.018322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Game Library/Codebase/DestroyObject.cs
+  artifactKey: Guid(cbbe3611b0558d143b639f54aba222b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Library/Codebase/DestroyObject.cs using Guid(cbbe3611b0558d143b639f54aba222b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd32acd4ef5d574994601a69ab77dfc6') in 0.002572 seconds
+  Import took 0.005612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.390422 seconds.
+  path: Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs
+  artifactKey: Guid(29014cd42b6d273408e0ceefd336c0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs using Guid(29014cd42b6d273408e0ceefd336c0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd195f13d16743a4d647a3487ce3908') in 0.009720 seconds
+  Import took 0.013343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.308303 seconds.
+  path: Assets/My Game/My Scenes/Scene 1.unity
+  artifactKey: Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Game/My Scenes/Scene 1.unity using Guid(9cfccafac008fc742a9eb1c70bba5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3f3e0ea2268ab6b2d8f79525cac80f') in 0.023099 seconds
+  Import took 0.026331 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003440 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.920 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1263 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.6 MB.
+System memory in use after: 80.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1832.
+Total: 2.597200 ms (FindLiveObjects: 0.213300 ms CreateObjectMapping: 0.068100 ms MarkObjects: 1.874000 ms  DeleteObjects: 0.439300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
